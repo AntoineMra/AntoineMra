@@ -15,4 +15,4 @@
 
 ### Stats
 
-<img align="left" width="30%" alt="Top languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=AntoineMra&theme=onedark&count_private=true&layout=compact&langs_count=8" />
+<img align="left" width="50%" alt="Top languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=AntoineMra&theme=onedark&count_private=true&layout=compact&langs_count=8" />
