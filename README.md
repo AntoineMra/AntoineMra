@@ -15,7 +15,7 @@
 ### Curiosity
 
 - :envelope: Interested in personal finance
-- :running: Enjoy going to the gym
+- :running: Enjoy going to the gym [ & 🏈]
 - :watch: Love to make my time usefull
 - :sunrise_over_mountains: Craving to go on a hike again
 
