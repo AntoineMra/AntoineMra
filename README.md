@@ -1,7 +1,6 @@
 
 ## :sparkles: About Me
-- I'm a Full Stack Web Developer 
-- Currently working for April Marine with Symfony API Platform and Vue JS
+- I'm a Full Stack Web Developer currently working for April Marine with Symfony API Platform and Vue JS
 - I'm also pursuing a master's degree in web development at Ynov
 - Interested in solving enterprise grade challenge through web solutions
 
