@@ -2,7 +2,6 @@
 ## :sparkles: About Me
 - I'm a Full Stack Web Developer currently working for April Marine with Symfony API Platform and Vue JS
 - I ended a master's degree in web development at Ynov
-- Interested in solving enterprise grade challenge through web solutions
 
 ## 🔗 Links
 
@@ -15,7 +14,6 @@
 
 - :envelope: Interested in personal finance
 - :running: Enjoy going to the gym [ & 🏈]
-- :watch: Love to make my time usefull
 - :sunrise_over_mountains: Craving to go on a hike again
 
 ## Stats
